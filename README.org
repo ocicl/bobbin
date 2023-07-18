@@ -1,0 +1,9 @@
+* bobbin
+
+Bobbin wraps strings.
+
+|---------+---------------------------------------|
+| source  | git:https://github.com/sjl/bobbin.git |
+| commit  | b454e82                                      |
+| systems | bobbin                                |
+|---------+---------------------------------------|
